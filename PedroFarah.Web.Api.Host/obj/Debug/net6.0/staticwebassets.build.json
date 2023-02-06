@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eSbhPx0WMTna8QgoWBCAwYCmuS9bMO/O66CiLlWP8TQ=",
+  "Source": "PedroFarah.Web.Api.Host",
+  "BasePath": "_content/PedroFarah.Web.Api.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

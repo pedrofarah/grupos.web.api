@@ -1,0 +1,17 @@
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Domain.deps.json
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Domain.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Domain.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Entity.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Entity.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\bin\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.csproj.AssemblyReference.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.AssemblyInfoInputs.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.AssemblyInfo.cs
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.csproj.CopyComplete
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\refint\PedroFarah.Web.Api.Domain.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\PedroFarah.Web.Api.Domain.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Domain\obj\Debug\net6.0\ref\PedroFarah.Web.Api.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PedroFarah.Web.Api.Host.props" />
+</Project>

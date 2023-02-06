@@ -1,0 +1,17 @@
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\bin\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.deps.json
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\bin\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.runtimeconfig.json
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\bin\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\bin\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\bin\Debug\net6.0\PedroFarah.Web.Api.Entity.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\bin\Debug\net6.0\PedroFarah.Web.Api.Entity.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.csproj.AssemblyReference.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.AssemblyInfoInputs.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.AssemblyInfo.cs
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.csproj.CopyComplete
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\refint\PedroFarah.Web.Api.Infrastructure.dll
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.pdb
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\PedroFarah.Web.Api.Infrastructure.genruntimeconfig.cache
+D:\projetos\PedroFarahApi\PedroFarah.Web.Api\PedroFarah.Web.Api.Infrastructure\obj\Debug\net6.0\ref\PedroFarah.Web.Api.Infrastructure.dll
